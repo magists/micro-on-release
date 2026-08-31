@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "url": "https://github.com/magists/micro-on-release/releases/download/v1.2.0/Micro-ON-Update-1.2.0.exe",
+  "sha256": "c16af2383828baf4be88c73e648b8559d2f137278a8a95d497c81540ee51bd7b",
+  "size": 12844699,
+  "notes": "소리(내장 마이크) 센서 카드가 추가되었고, 자동 업데이트 기능이 생겼습니다.",
+  "minVersion": "1.2.0"
+}
