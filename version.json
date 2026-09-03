@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/magists/micro-on-release/releases/download/v1.2.1/Micro-ON-Update-1.2.1.exe",
-  "sha256": "4099c983e60607d48fa1000ae3ba2dd958009da0b9c82c3f6bfeb6454a382006",
-  "size": 12838186,
-  "notes": "소리(내장 마이크) 카드에 예제 코드 연결 · 카드를 어디를 눌러도 선택되도록 개선 · 모둠 ID가 지워지던 버그 수정",
+  "version": "1.2.2",
+  "url": "https://github.com/magists/micro-on-release/releases/download/v1.2.2/Micro-ON-Update-1.2.2.exe",
+  "sha256": "4e20c93c5b7bb72fdb8424fb17040cc7f7d3d860db82bb73a371f70ddaf2d8d5",
+  "size": 12844271,
+  "notes": "마이크로비트에 연결된 다른 창이 열려 있으면 값이 깨지는 문제를 막기 위해, 내장 센서에도 분리 안내를 띄웁니다.",
   "minVersion": "1.2.0"
 }
